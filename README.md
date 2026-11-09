@@ -65,6 +65,8 @@ API available at `http://localhost:8002`
 
 ### Step 3 — Run (local, no Docker)
 
+Use Python 3.10 (what the Dockerfile uses) or newer. Tested on 3.10 and 3.12.
+
 ```bash
 pip install -r requirements.txt
 
